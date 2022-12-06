@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Sku-policy-whitelist
+  annotations:
+    github.com/project-slug: henry507/Sku-policy-whitelist
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
